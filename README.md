@@ -1,4 +1,4 @@
-#........................#
+#
 #utiliser l'extension wp_vivid pour importer le projet
 
 #technologie 
